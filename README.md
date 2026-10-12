@@ -53,13 +53,6 @@ Each file should have a `main` method that runs the sample inputs.
 | B: Coding | 6 | 10 | 60 |
 | | | **Total** | **100** |
 
-## ✅ Progress Tracker
-
-- [ ] MCQ document ready (all 20 answers with justification)
-- [ ] Problem 1  - [ ] Problem 2  - [ ] Problem 3
-- [ ] Problem 4  - [ ] Problem 5  - [ ] Problem 6
-- [ ] README.md with approach and complexity
-- [ ] Pushed to GitHub and link submitted
 
 ---
 
